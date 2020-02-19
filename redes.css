@@ -58,7 +58,15 @@ ul li a:hover{
 	align-content: center;
 
 }
-#img-container img{
+#img-container-2{
+	width: 100%;
+	display: flex;
+	align-content: center;
+	margin-top: 100px;
+
+}
+#img-container img,
+#img-container-2 img{
 	margin: 10px auto;
 	width: 200px;
 	height:  200px;
